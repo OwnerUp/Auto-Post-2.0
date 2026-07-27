@@ -113,7 +113,9 @@ def betting_match(
 
 Tv Band Report....
 
-{team1} 🆚 {team2}
+    {team1} 
+        🆚 
+        {team2}
 
 Telegram Tod Report....
 
@@ -125,7 +127,7 @@ WAIT FOR BEST TRAINING ENTRY
 
 BOOK SET CAMPLSRY LOW ODDS ✅
 
-Play With :- @BettingKiings 💠"""
+Play With :- Betting Kings (BK BHAI) 💠"""
 
     promo1 = f"""Jitna Khel Sakte Ho Khelo....
 With Max Amount...
@@ -134,13 +136,8 @@ With Max Amount...
 
 🆔LELO YAHA SE OR LIMIT RADDY
 RAKHO
-For VIP Clients
-https://wa.link/stake888vipho
 
-Ragister & Bet
-https://www.stake888.io
-
-Play With :- @BettingKiings 💠"""
+Play With :- Betting Kings (BK BHAI) 💠"""
 
     return text, promo1, None
 
