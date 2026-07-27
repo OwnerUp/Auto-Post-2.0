@@ -423,7 +423,7 @@ NO LIMIT TOSS✔️
 
 BIG LIMIT SE PLAY KRO✔️
 
-ONLY👉 [ BETTING KING ] 💠"""
+ONLY👉 Betting Kings (BK BHAI) 💠"""
 
     promo = f"""Jitna Khel Sakte Ho Khelo....
 With Max Amount...
@@ -431,12 +431,8 @@ With Max Amount...
 {team} Win This TOSS..!! 🤑✔️
 
 WAIT FOR BEST ENTRY ✔️
-
- Ragister & Bet Only 👇
-https://www.stake888.io
     
-
-ONLY👉 [ BETTING KING ] 💠"""
+ONLY👉 Betting Kings (BK BHAI)💠"""
 
     return caption, promo
 
