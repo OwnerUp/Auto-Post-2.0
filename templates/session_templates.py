@@ -62,8 +62,6 @@ def betting_session(over, run, call):
 
 INDIA BEST SITE 👇
 
-®️ www.stake888.games
-
 10K LIMIT SE PLAY 🥳
 """.strip()
 
