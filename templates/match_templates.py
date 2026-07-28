@@ -264,7 +264,11 @@ Rocky bhai (Trending King) 💠"""
 
     promo1 = f"""{winner} Win This MATCH 💯
 
-If Everything Is Yours, Then There Is Only One Side Of The Coin, "Victory"✔️
+If Everything Is Yours, Then There Is Only One Side "Victory"✔️
+
+Ragister & Bet
+Www.Khelking.com
+Www.Khelking.com
 
 Rocky bhai (Trending King) 💠"""
 
