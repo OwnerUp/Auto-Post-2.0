@@ -113,8 +113,8 @@ def betting_match(
 
 Tv Band Report....
 
-    {team1} 
-        🆚 
+{team1} 
+          🆚 
         {team2}
 
 Telegram Tod Report....
