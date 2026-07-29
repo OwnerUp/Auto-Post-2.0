@@ -25,7 +25,7 @@ http://wa.link/khelkingvipho
 
 PLACE YOUR BETS INDIA'S MOST 
 TRUSTED BOOK 
-http://Www.Khelking.com 🔜"""
+http://Www.Khelking.buzz 🔜"""
 
     return caption, promo
 
@@ -54,8 +54,8 @@ ONLINE 🔸 BATMAN (Official) 💠"""
 RAKHO
 
 Ragister & Bet 🤑
-Www.Khelking.com ✔️
-Www.Khelking.com ✔️
+Www.Khelking.buzz ✔️
+Www.Khelking.buzz ✔️
 
 ONLINE 🔸 BATMAN (Official) 💠"""
 
@@ -90,7 +90,7 @@ http://wa.link/khelkingvipho
 
 PLACE YOUR BETS INDIA'S MOST 
 TRUSTED BOOK MAKE YOUR ID NOW
-http://Www.Khelking.com 🔜
+http://Www.Khelking.buzz 🔜
 
 👉 GAME CHANGER ( Abhi ) 💠"""
 
@@ -154,8 +154,8 @@ Rocky bhai (Trending King)💠"""
     
 PLACE YOUR BETS INDIA'S MOST 
 TRUSTED BOOK 
-http://Www.Khelking.com 💯
-http://Www.Khelking.com 💯
+http://Www.Khelking.buzz 💯
+http://Www.Khelking.buzz 💯
 Rocky bhai (Trending King) 💠"""
 
     return caption, promo
@@ -334,9 +334,8 @@ WAIT FOR BEST ENTRY 🕐
 🆔LELO YAHA SE OR LIMIT RADDY
 RAKHO 👑
 
-Plat at -- Www.Khelking.com
-Plat at -- Www.Khelking.com
-
+Plat at -- Www.Khelking.buzz
+Plat at -- Www.Khelking.buzz
 
 ONLY🔻RAHUL DADA 💠"""
 
