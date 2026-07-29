@@ -23,7 +23,7 @@ def royal_session(over, run, call):
 
 Play only on 👇
 
-Plat at -- Www.Khelking.com
+Plat at -- Www.Khelking.buzz
 
 """.strip()
 
@@ -98,7 +98,7 @@ BINDASS 👍
 
 {call} KARO 👉 {emoji}
 
-PLAY ON 👉 Www.Khelking.com
+PLAY ON 👉 Www.Khelking.buzz
 
 SAME LIMIT SE PLAY 💰
 """.strip()
@@ -136,7 +136,7 @@ def game_session(over, run, call):
 
 INIDAN TRUSTED SITE 👇
 
-Www.Khelking.com 💯
+Www.Khelking.buzz 💯
 
 """.strip()
 
@@ -221,8 +221,8 @@ def rocky_session(over, run, call):
 {call} KRO {emoji}
 
 AISA BEST SITE 👇
-Www.Khelking.com 💯
-Www.Khelking.com 💯
+Www.Khelking.buzz 💯
+Www.Khelking.buzz 💯
 """.strip()
 
 
@@ -410,7 +410,7 @@ def rahul_session(over, run, call):
 
 {over} OVER 🏏
 
-PLAY ON 👉 WWW.KHELKING.COM 💯
+PLAY ON 👉 Www.Khelking.buzz 💯
 
 """.strip()
 
