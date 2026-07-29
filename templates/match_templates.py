@@ -34,7 +34,7 @@ ROYAL WIN 💠"""
 🆔LELO YAHA SE OR LIMIT RADDY
 RAKHO 👇
 
-Plat at -- Www.Khelking.com"""
+Plat at -- Www.Khelking.buzz"""
 
     promo2 = f"""{winner} WIN THE MATCH
 
@@ -44,7 +44,7 @@ wa.link/khelkingvipho
 WAIT FOR BEST ENTRY
 
 Ragister & Bet
-Www.Khelking.com"""
+Www.Khelking.buzz"""
 
     return text, promo1, promo2
 
@@ -89,7 +89,7 @@ wa.link/khelkingvipho
 WAIT FOR BEST ENTRY
 
 Ragister & Bet
-Www.Khelking.com
+Www.Khelking.buzz
 
 ONLINE 🔸 BATMAN (Official) 💠"""
 
@@ -173,7 +173,7 @@ WAIT FOR BEST TRAINING ENTRY
     promo1 = f"""🆔LELO YAHA SE OR LIMIT RADDY
 RAKHO 👇
 
-Plat at -- Www.Khelking.com
+Plat at -- Www.Khelking.buzz
 
 {winner} WIN THE MATCH
 
@@ -267,8 +267,8 @@ Rocky bhai (Trending King) 💠"""
 If Everything Is Yours, Then There Is Only One Side "Victory"✔️
 
 Ragister & Bet
-Www.Khelking.com
-Www.Khelking.com
+Www.Khelking.buzz
+Www.Khelking.buzz
 
 Rocky bhai (Trending King) 💠"""
 
@@ -510,7 +510,7 @@ ONLY 🔻 RAHUL DADA 💠"""
 
 🆔 LELO YAHA SE OR LIMIT RADDY
 RAKHO 👇
-Plat at -- Www.Khelking.com
+Plat at -- Www.Khelking.buzz
 
 ONLY ➡️ RAHUL DADA 💠"""
 
