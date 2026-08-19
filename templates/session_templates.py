@@ -98,8 +98,6 @@ BINDASS 👍
 
 {call} KARO 👉 {emoji}
 
-PLAY ON 👉 Www.Khelking.buzz
-
 SAME LIMIT SE PLAY 💰
 """.strip()
 
@@ -219,10 +217,6 @@ def rocky_session(over, run, call):
 {run} RUN 👉 {over} OVER
 
 {call} KRO {emoji}
-
-AISA BEST SITE 👇
-Www.Khelking.buzz 💯
-Www.Khelking.buzz 💯
 """.strip()
 
 
