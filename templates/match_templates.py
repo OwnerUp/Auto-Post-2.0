@@ -83,14 +83,6 @@ BATMAN (Official) 💠"""
 🆔LELO YAHA SE OR LIMIT RADDY
 RAKHO
 
-For VIP Clients
-wa.link/khelkingvipho
-
-WAIT FOR BEST ENTRY
-
-Ragister & Bet
-Www.Khelking.buzz
-
 ONLINE 🔸 BATMAN (Official) 💠"""
 
     return text, promo1, None
@@ -265,10 +257,6 @@ Rocky bhai (Trending King) 💠"""
     promo1 = f"""{winner} Win This MATCH 💯
 
 If Everything Is Yours, Then There Is Only One Side "Victory"✔️
-
-Ragister & Bet
-Www.Khelking.buzz
-Www.Khelking.buzz
 
 Rocky bhai (Trending King) 💠"""
 
