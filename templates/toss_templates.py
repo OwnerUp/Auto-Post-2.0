@@ -53,10 +53,6 @@ ONLINE 🔸 BATMAN (Official) 💠"""
 🆔LELO YAHA SE OR LIMIT RADDY
 RAKHO
 
-Ragister & Bet 🤑
-Www.Khelking.buzz ✔️
-Www.Khelking.buzz ✔️
-
 ONLINE 🔸 BATMAN (Official) 💠"""
 
     return caption, promo
@@ -153,9 +149,7 @@ Rocky bhai (Trending King)💠"""
 {team} Win This Toss...💯
     
 PLACE YOUR BETS INDIA'S MOST 
-TRUSTED BOOK 
-http://Www.Khelking.buzz 💯
-http://Www.Khelking.buzz 💯
+
 Rocky bhai (Trending King) 💠"""
 
     return caption, promo
