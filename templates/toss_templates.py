@@ -388,7 +388,9 @@ BIG LIMIT SE PLAY KRO✔️
 OWNER 🔻 THE KING 💠"""
 
     promo = f"""Ragister & Bet
-https://www.stake888.io
+    
+https://www.stake888.black
+
 {team} WIN THE TOSS
 
 WAIT FOR BEST ENTRY 🕐
