@@ -348,7 +348,7 @@ AGEN FUCK ALL MARKET🥳
 ✅ Full Market Fail…
 ✅ Always Profit With Me.....
 
-𝐎𝐍𝐋𝐘 👉 THE KING 💠"""
+𝐎𝐍𝐋𝐘 👉 KING BHAI 💠"""
 
              # =====================================
             # BETTING
@@ -370,7 +370,7 @@ AGEN FUCK ALL MARKET🥳
 ✅ Full Market Fail…
 ✅ Always Profit With Me.....
 
-BETTING KING 💠"""
+BK BHAI 💠"""
 
             # =====================================
             # OWNER UPDATE
