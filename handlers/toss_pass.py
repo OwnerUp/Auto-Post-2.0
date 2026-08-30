@@ -109,7 +109,7 @@ BATMAN (Official) 💠"""
      BETTING KING
   HAIN TO PROFIT HAIN 
 
-BETTING KING  💠"""
+BK BHAI 💠"""
 
             elif channel_name == "GAME":
                 text = f"""{team} WON THE TOSS AND DECIDED TO {choice} ✔️✔️
