@@ -328,9 +328,6 @@ WAIT FOR BEST ENTRY 🕐
 🆔LELO YAHA SE OR LIMIT RADDY
 RAKHO 👑
 
-Plat at -- Www.Khelking.buzz
-Plat at -- Www.Khelking.buzz
-
 ONLY🔻RAHUL DADA 💠"""
 
     return caption, promo
@@ -385,7 +382,7 @@ NO LIMIT TOSS✔️
 NO CHANGE TOSS✔️
 BIG LIMIT SE PLAY KRO✔️
 
-OWNER 🔻 THE KING 💠"""
+OWNER 🔻KING BHAI💠"""
 
     promo = f"""Ragister & Bet
     
@@ -395,7 +392,7 @@ https://www.stake888.black
 
 WAIT FOR BEST ENTRY 🕐
 
-OWNER 🔻 THE KING 💠"""
+OWNER 🔻 KING BHAI 💠"""
 
     return caption, promo
 
@@ -419,7 +416,7 @@ NO LIMIT TOSS✔️
 
 BIG LIMIT SE PLAY KRO✔️
 
-ONLY👉 Betting Kings (BK BHAI) 💠"""
+ONLY👉 (BK BHAI) 💠"""
 
     promo = f"""Jitna Khel Sakte Ho Khelo....
 With Max Amount...
@@ -428,7 +425,7 @@ With Max Amount...
 
 WAIT FOR BEST ENTRY ✔️
     
-ONLY👉 Betting Kings (BK BHAI)💠"""
+ONLY👉 (BK BHAI)💠"""
 
     return caption, promo
 
