@@ -497,8 +497,7 @@ ONLY 🔻 RAHUL DADA 💠"""
 {winner}WIN THE MATCH
 
 🆔 LELO YAHA SE OR LIMIT RADDY
-RAKHO 👇
-Plat at -- Www.Khelking.buzz
+RAKHO 
 
 ONLY ➡️ RAHUL DADA 💠"""
 
@@ -581,7 +580,7 @@ Cricket Analysis & Treding Specialist
 
 WAIT FOR NEXT ENTRY ✅
 
-𝐎𝐍𝐋𝐘 👉 THE KING 💠"""
+𝐎𝐍𝐋𝐘 👉 KING BHAI 💠"""
 
     promo1 = f"""Ragister & Bet
     
@@ -591,7 +590,7 @@ https://www.stake888.black
 
 WAIT FOR BEST ENTRY 🕐
 
-𝐎𝐍𝐋𝐘 👉 THE KING 💠"""
+𝐎𝐍𝐋𝐘 👉 KING BHAI 💠"""
 
     return text, promo1, None
 
