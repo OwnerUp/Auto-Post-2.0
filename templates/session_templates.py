@@ -360,7 +360,7 @@ def angad_session(over, run, call):
     emoji = session_call_emoji(call)
 
     return f"""
-💠 RAHUL DADA ENTRY 💠
+💠 ANGAD DADA ENTRY 💠
 
 {call} {emoji}
 
@@ -377,7 +377,7 @@ def angad_session_pass(result):
 
 🏏 {result} RUN
 
-RAHUL DADA 💠
+ANGAD DADA 💠
 """.strip()
 
 
@@ -403,8 +403,6 @@ def rahul_session(over, run, call):
 {run} RUN 👉 {call} KARO SAB {emoji}
 
 {over} OVER 🏏
-
-PLAY ON 👉 Www.Khelking.buzz 💯
 
 """.strip()
 
